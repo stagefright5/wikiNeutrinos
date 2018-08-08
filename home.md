@@ -7,13 +7,13 @@ this is the intro to doc
 this documentation contains a comprehensive guide for installation 
 <details>
 <summary>Heading</summary>
-<details>
-<summay> heading 2 </summary>
-	+ markdown list 1
-			+ nested list 1
-			+ nested list 2
-	+ markdown list 2
-</details>
+	<details>
+	<summay> heading 2 </summary>
+		+ markdown list 1
+				+ nested list 1
+				+ nested list 2
+		+ markdown list 2
+	</details>
 </details>
 
 ### Requirements
