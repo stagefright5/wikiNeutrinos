@@ -1,7 +1,7 @@
 <!-- TITLE: Neutrinos Doc -->
 <!-- SUBTITLE: docs for nos -->
 
-# Introduction
+## Introduction
 this is the intro to doc
 
 <details>
