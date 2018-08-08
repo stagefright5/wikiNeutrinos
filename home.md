@@ -89,7 +89,8 @@ this one... not that one
 ```
 </details>
 
-### API Usage Guide
+## API Usage Guide
+
 # FAQ
 see [here](faq)
 
