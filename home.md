@@ -6,6 +6,7 @@ this is the intro to doc
 <details>
 <summary>Jump To...</summary>
 
+*[INstallation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
 	1. [Set Up Guide](home#set-up-guide)
@@ -13,6 +14,8 @@ this is the intro to doc
 
 
 </details>
+
+
 ## Installation
 this documentation contains a comprehensive guide for installation 
 
