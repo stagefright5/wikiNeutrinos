@@ -8,7 +8,7 @@ this is the intro to doc
 <details>
 <summary>Jump To...</summary>
 
-* [New Dir](new-directory)
+* [New Dir](new-directory/home-duplicate)
 * [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
