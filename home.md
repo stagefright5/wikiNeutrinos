@@ -4,7 +4,7 @@
 # Introduction
 this is the intro to doc
 
-## Jump TO
+## Links
 <details>
 <summary>Jump To...</summary>
 
