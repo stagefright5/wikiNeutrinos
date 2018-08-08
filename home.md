@@ -3,15 +3,7 @@
 
 # Introduction
 this is the intro to doc
-## <details>
-<summary> Heading</summary>
-
-* markdown list 1
-	* nested list 1
-	* nested list 2
-* markdown list 2
-
-</details>
+## Installation
 this documentation contains a comprehensive guide for installation 
 
 <details>
@@ -27,7 +19,7 @@ this documentation contains a comprehensive guide for installation
 </details>
 
 <details>
-<summary>+ Heading</summary>
+<summary>Heading</summary>
 
 * markdown list 1
 	* nested list 1
@@ -36,7 +28,7 @@ this documentation contains a comprehensive guide for installation
 
 </details>
 <details>
-<summary>+ Heading</summary>
+<summary>Heading</summary>
 
 * markdown list 1
 	* nested list 1
