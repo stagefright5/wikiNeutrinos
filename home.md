@@ -8,7 +8,6 @@ this documentation contains a comprehensive guide for installation
 
 <details>
 <summary>Jump To...</summary>
-<details>
 
 * [requirements](home#requirements)
 	1. nested list 1
