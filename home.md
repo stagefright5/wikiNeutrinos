@@ -3,7 +3,15 @@
 
 # Introduction
 this is the intro to doc
-## installation
+## <details>
+<summary> Heading</summary>
+
+* markdown list 1
+	* nested list 1
+	* nested list 2
+* markdown list 2
+
+</details>
 this documentation contains a comprehensive guide for installation 
 
 <details>
