@@ -9,7 +9,7 @@ this is the home
 		
 		run below command in **Powershell**
 		
-```text
+```
 this is the command to install in windows
 
 ```
@@ -18,6 +18,6 @@ this is the command to install in windows
 		
 		run below cmd i terminal . (make sure you have **curl** installed)
 		
-		```
-		run this cmd to install in Mac/Linux
-		```
+```
+run this cmd to install in Mac/Linux
+```
