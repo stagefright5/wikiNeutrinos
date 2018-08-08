@@ -48,7 +48,7 @@ b | [5.1.8]()
 c | [6.11.0]()
 d | [1.5.0]()
 e | [8.3.0]()
-### 1. Windows
+### Windows
 run below command in **Powershell**
 		
 ```
@@ -56,7 +56,7 @@ this is the command to install in windows
 
 ```
 
-### 2. Linux / Mac
+### Linux / Mac
 run below cmd i terminal . (make sure you have **curl** installed)
  
 > WARNING !!
