@@ -36,3 +36,10 @@ this one... not that one
 ```
 
 ## FAQ
+1. why do i need to install that?
+> 	because you need that to make this work
+	
+2. why windows sucks?
+> 	there are million reasons
+
+	
