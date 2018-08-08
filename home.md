@@ -8,11 +8,11 @@ this is the intro to doc
 <details>
 <summary>Jump To...</summary>
 
-* [Installation](home.md#installation)
-* [requirements](home.md#requirements)
-* [Guides](home.md#guides)
-	1. [Set Up Guide](home.md#set-up-guide)
-	2. [API Usage Guide](home.md#api-usage-guide)
+* [Installation](home#installation)
+* [requirements](home#requirements)
+* [Guides](home#guides)
+	1. [Set Up Guide](home#set-up-guide)
+	2. [API Usage Guide](home#api-usage-guide)
 
 
 </details>
