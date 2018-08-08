@@ -12,8 +12,8 @@ this documentation contains a comprehensive guide for installation
 
 * [requirements](home#requirements)
 * [Guides](home#guides)
-	1. [Set Up Guide](home#setupguide)
-	2. [API Usage Guide](home#apiusageguide)
+	1. [Set Up Guide](home#set-up-guide)
+	2. [API Usage Guide](home#api-usage-guide)
 
 
 </details>
