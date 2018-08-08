@@ -8,7 +8,7 @@ this documentation contains a comprehensive guide for installation
 
 ### Requirements
 software | Minversion
------|--------
+-----|------------------------
 a  | 1.0
 b | 1.0
 c | 1.0
