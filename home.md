@@ -16,6 +16,11 @@ this is the intro to doc
 
 
 </details>
+|[Installation](home#installation)|
+|[requirements](home#requirements)|
+[Guides](home#guides)
+[Set Up Guide](home#set-up-guide)
+[API Usage Guide](home#api-usage-guide)
 
 
 # Installation
