@@ -8,7 +8,7 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary>Heading</summary>
 	<details>
-	<summay> heading 2 </summary>
+	<summay>Heading 2</summary>
 		+ markdown list 1
 				+ nested list 1
 				+ nested list 2
