@@ -6,7 +6,6 @@ this is the intro to doc
 <details>
 <summary>Jump To...</summary>
 
-* [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
 	1. [Set Up Guide](home#set-up-guide)
