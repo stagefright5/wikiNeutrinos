@@ -9,10 +9,12 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary>Jump To...</summary>
 
+
 * [requirements](home#requirements)
-	1. nested list 1
-	2. nested list 2
-* markdown list 2
+* [Guides](home#guides)
+	1. [Set Up Guide](home#setupguide)
+	2. [API Usage Guide](home#apiusageguide)
+
 
 </details>
 
