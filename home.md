@@ -70,7 +70,7 @@ run ths cmd to install in Mac/Linux
 ## Guides
 
 <details>
-<summary>### Set Up Guide<summary>
+<summary>Set Up Guide<summary>
 
 1. step 1: do this
 2. step 2: do that
