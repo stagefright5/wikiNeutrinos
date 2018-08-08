@@ -24,8 +24,9 @@ this is the command to install in windows
 
 ### 2. Linux / Mac
 run below cmd i terminal . (make sure you have **curl** installed)
->####WARNING
->it is not **this** but **ths**
+>
+####WARNING
+it is not **this** but **ths**
 {.is-warning}
 
 ```
