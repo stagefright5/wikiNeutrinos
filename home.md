@@ -5,10 +5,10 @@
 this is the intro to doc
 ## installation
 this documentation contains a comprehensive guide for installation 
+
 <details>
 <summary>MHead</summary>
-
-*<details>
+<details>
 <summary> Heading</summary>
 
 * markdown list 1
