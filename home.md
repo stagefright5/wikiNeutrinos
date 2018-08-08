@@ -3,10 +3,10 @@
 
 # Introduction
 this is the intro to doc
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp<details>
 <summary>Jump To...</summary>
 
-*[INstallation](home#installation)
+* [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
 	1. [Set Up Guide](home#set-up-guide)
