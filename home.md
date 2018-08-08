@@ -35,7 +35,7 @@ if on mac/Linux, type this cmd
 this one... not that one
 ```
 
-## FAQ
+# FAQ
 1. why do i need to install that?
 > 	because you need that to make this work
 	
