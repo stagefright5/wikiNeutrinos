@@ -47,13 +47,13 @@ this documentation contains a comprehensive guide for installation
 </details>
 
 ### Requirements
-software | Minversion
+software | Min-version
 -|-
-a  | 1.0
-b | 1.0
-c | 1.0
-d | 1.0
-e | 1.0
+a  | [0.1.99]()
+b | [5.1.8]()
+c | [6.11.0]()
+d | [1.5.0]()
+e | [8.3.0]()
 ### 1. Windows
 run below command in **Powershell**
 		
