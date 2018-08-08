@@ -7,7 +7,7 @@ this is the intro to doc
 ## Links
 <details>
 <summary>Jump To...</summary>
-
+* [New Dir](new-directory)
 * [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
