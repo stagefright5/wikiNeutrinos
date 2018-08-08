@@ -78,7 +78,7 @@ run ths cmd to install in Mac/Linux
 	4. step 5: If you have that already installed, skip to step 8. else proceed sequentilly
 	5. step 6: run the below cmd in window to install that
 
-<details>
+</details>
 		
 ```
 run this cmd in windows
