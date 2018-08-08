@@ -9,7 +9,7 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary>Jump To...</summary>
 <details>
-<summary> [Guides](home#guides)</summary>
+<summary> [Guides][1]</summary>
 
 * markdown list 1
 	1. nested list 1
@@ -18,6 +18,7 @@ this documentation contains a comprehensive guide for installation
 
 </details>
 </details>
+[1]: home#guides
 
 ### Requirements
 software | Min-version
