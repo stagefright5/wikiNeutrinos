@@ -6,10 +6,13 @@ this is the intro to doc
 ## installation
 this documentation contains a comprehensive guide for installation 
 <details>
-<summary>DD Head</summary>
-+ list 1
-		+ list 11
-		+ list 12
+<summary>Heading</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
 </details>
 
 ### Requirements
