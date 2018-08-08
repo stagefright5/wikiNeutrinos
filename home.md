@@ -52,6 +52,7 @@ this one... not that one
 ```
 
 ### API Usage Guide
-# [FAQ](faq)
+# FAQ
+see [here](faq)
 
 	
