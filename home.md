@@ -79,6 +79,6 @@ this one... not that one
 ## API Usage Guide
 
 # FAQ
-[FAQ](frequently-aq)
+[FAQ](faq/frequently-aq)
 
 	
