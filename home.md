@@ -2,7 +2,7 @@
 <!-- SUBTITLE: docs for nos -->
 
 # Introduction
-this is the intro to doc
+this is the intro to do
 
 ## Links
 <!--<details>
