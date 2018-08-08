@@ -1,8 +1,8 @@
 <!-- TITLE: Neutrinos Doc -->
 <!-- SUBTITLE: docs for nos -->
 
-# Home
-this is the home
+# Introduction
+this is the intro to doc
 ## installation
 this documentation contains a comprehensive guide for installation 
 
