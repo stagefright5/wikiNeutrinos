@@ -8,7 +8,7 @@ this is the intro to do
 <!--<details>
 <summary>Jump To...</summary>-->
 
-* [New Dir](new-directory/nd-page-2)
+* [New Dir](new-directory/nd-page-2/page3)
 * [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
