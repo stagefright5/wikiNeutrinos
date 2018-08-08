@@ -7,9 +7,9 @@ this is the intro to doc
 this documentation contains a comprehensive guide for installation 
 
 <details>
-<summary>MHead</summary>
+<summary>Heading</summary>
 <details>
-<summary> Heading</summary>
+<summary> Sub-Heading1</summary>
 
 * markdown list 1
 	* nested list 1
@@ -19,7 +19,7 @@ this documentation contains a comprehensive guide for installation
 </details>
 
 <details>
-<summary>Heading</summary>
+<summary>Sub-Heading2</summary>
 
 * markdown list 1
 	* nested list 1
@@ -28,25 +28,17 @@ this documentation contains a comprehensive guide for installation
 
 </details>
 <details>
-<summary>Heading</summary>
+<summary>Sub-Heading3</summary>
 
-* markdown list 1
-	* nested list 1
+* [markdown list 1][1]
+	* [nested list 1]()
 	* nested list 2
 * markdown list 2
 
 </details>
 </details>
 
-<details>
-<summary>Heading</summary>
-
-+ markdown list 1
-    + nested list 1
-    + nested list 2
-+ markdown list 2
-
-</details>
+[1]: www.google.com
 
 ### Requirements
 software | Min-version
