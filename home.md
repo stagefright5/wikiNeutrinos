@@ -12,8 +12,8 @@ this is the intro to doc
 * [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
-	1. [Set Up Guide](home#set-up-guide)
-	2. [API Usage Guide](home#api-usage-guide)
+	* [Set Up Guide](home#set-up-guide)
+	* [API Usage Guide](home#api-usage-guide)
 
 
 <!--</details>-->
