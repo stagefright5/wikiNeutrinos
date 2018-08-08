@@ -8,7 +8,7 @@ this is the intro to doc
 <details>
 <summary>Jump To...</summary>
 
-* [New Dir](new-directory/home-duplicate)
+* [New Dir](aew-directory/nd-page-2)
 * [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
