@@ -8,11 +8,11 @@ this documentation contains a comprehensive guide for installation
 
 ### Requirements
 software Minversion
-* [a ------ 1.0](info)
-* b ------ 1.0
-* c ------ 1.0
-* d ------ 1.0
-* e ------ 1.0
+* [a  | 1.0](info)
+* b ---|--- 1.0
+* c ----1|-- 1.0
+* d --|---- 1.0
+* e ---|--- 1.0
 ### 1. Windows
 run below command in **Powershell**
 		
