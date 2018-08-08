@@ -30,7 +30,7 @@ b | [5.1.8]()
 c | [6.11.0]()
 d | [1.5.0]()
 e | [8.3.0]()
-### Windows
+## Windows
 run below command in **Powershell**
 		
 ```
@@ -38,7 +38,7 @@ this is the command to install in windows
 
 ```
 
-### Linux / Mac
+## Linux / Mac
 run below cmd i terminal . (make sure you have **curl** installed)
  
 > WARNING !!
