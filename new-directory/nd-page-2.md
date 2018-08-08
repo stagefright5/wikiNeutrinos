@@ -8,4 +8,5 @@
 ## cd
 ## de
 # Header3
-[home](../home)
+[home](/home)
+[FAQ](/faq/frequently-aq)
