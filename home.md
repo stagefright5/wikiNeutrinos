@@ -26,7 +26,6 @@ this is the command to install in windows
 run below cmd i terminal . (make sure you have **curl** installed)
  
 > WARNING
-{.is-warning}
 > it is not **this** but **ths**
 {.is-warning}
 
