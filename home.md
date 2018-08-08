@@ -8,7 +8,7 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary>MHead</summary>
 <details>
-<summary>* Heading</summary>
+<summary> * Heading</summary>
 
 * markdown list 1
 	* nested list 1
