@@ -18,7 +18,8 @@ this is the command to install in windows
 ```
 run this cmd to install in Mac/Linux
 ```
-## Set-up guide
+## Guides
+### Set Up Guide
 1. step 1: do this
 2. step 2: do that
 3. step 4: After step2 , install that
@@ -35,6 +36,7 @@ if on mac/Linux, type this cmd
 this one... not that one
 ```
 
+### API Usage Guide
 # FAQ
 1. why do i need to install that?
 > 	because you need that to make this work
