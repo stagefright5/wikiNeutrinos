@@ -5,6 +5,13 @@
 this is the home
 ## installation
 this documentation contains a comprehensive guide for installation 
+
+### Requirements
+* a ------ 1.0
+* b ------ 1.0
+* c ------ 1.0
+* d ------ 1.0
+* e ------ 1.0
 ### 1. Windows
 run below command in **Powershell**
 		
