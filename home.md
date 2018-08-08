@@ -7,9 +7,9 @@ this is the intro to doc
 this documentation contains a comprehensive guide for installation 
 
 <details>
-<summary>Heading</summary>
+<summary>Jump To...</summary>
 <details>
-<summary> Sub-Heading1</summary>
+<summary> [Guides](#Guides)</summary>
 
 * markdown list 1
 	1. nested list 1
@@ -17,28 +17,7 @@ this documentation contains a comprehensive guide for installation
 * markdown list 2
 
 </details>
-
-<details>
-<summary>Sub-Heading2</summary>
-
-* markdown list 1
-	* nested list 1
-	* nested list 2
-* markdown list 2
-
 </details>
-<details>
-<summary>Sub-Heading3</summary>
-
-* [markdown list 1][1]
-	* [nested list 1]()
-	* nested list 2
-* markdown list 2
-
-</details>
-</details>
-
-[1]: faq
 
 ### Requirements
 software | Min-version
