@@ -69,8 +69,8 @@ run ths cmd to install in Mac/Linux
 ```
 ## Guides
 
-<details>
-<summary>Set Up Guide<summary>
+
+### Set Up Guide
 
 1. step 1: do this
 2. step 2: do that
@@ -89,7 +89,7 @@ this one... not that one
 ```
 </details>
 
-## API Usage Guide
+### API Usage Guide
 
 # FAQ
 
