@@ -38,7 +38,7 @@ this documentation contains a comprehensive guide for installation
 </details>
 </details>
 
-[1]: www.google.com
+[1]: /www.google.com
 
 ### Requirements
 software | Min-version
