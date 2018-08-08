@@ -77,8 +77,6 @@ run ths cmd to install in Mac/Linux
 3. step 4: After step2 , install that
 4. step 5: If you have that already installed, skip to step 8. else proceed sequentilly
 5. step 6: run the below cmd in window to install that
-
-</details>
 		
 ```
 run this cmd in windows
@@ -89,6 +87,7 @@ if on mac/Linux, type this cmd
 ```
 this one... not that one
 ```
+</details>
 
 ### API Usage Guide
 # FAQ
