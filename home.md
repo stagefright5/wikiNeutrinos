@@ -5,8 +5,8 @@
 this is the intro to doc
 
 ## Links
-<details>
-<summary>Jump To...</summary>
+<!--<details>
+<summary>Jump To...</summary>-->
 
 * [New Dir](new-directory/nd-page-2)
 * [Installation](home#installation)
@@ -16,7 +16,7 @@ this is the intro to doc
 	2. [API Usage Guide](home#api-usage-guide)
 
 
-</details>
+<!--</details>-->
 
 
 
