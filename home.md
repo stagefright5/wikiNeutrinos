@@ -47,7 +47,7 @@ run below cmd i terminal . (make sure you have **curl** installed)
 ```
 run ths cmd to install in Mac/Linux
 ```
-## Guides
+# Guides
 
 
 ### Set Up Guide
