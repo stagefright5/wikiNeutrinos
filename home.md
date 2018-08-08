@@ -9,9 +9,9 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary>Jump To...</summary>
 <details>
-<summary> [Guides][1]</summary>
+<summary> Guides</summary>
 
-* markdown list 1
+* [markdown list 1][1]
 	1. nested list 1
 	2. nested list 2
 * markdown list 2
