@@ -5,7 +5,7 @@
 this is the intro to doc
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp Jump To...</summary>
+<summary>Jump To...</summary>
 
 * [Installation](home#installation)
 * [requirements](home#requirements)
