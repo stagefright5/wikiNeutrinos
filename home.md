@@ -4,8 +4,8 @@
 # Introduction
 this is the intro to doc
 
-&nbsp;&nbsp;&nbsp;&nbsp<details>
-<summary>Jump To...</summary>
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp Jump To...</summary>
 
 * [Installation](home#installation)
 * [requirements](home#requirements)
