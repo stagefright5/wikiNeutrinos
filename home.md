@@ -11,14 +11,14 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary> Guides</summary>
 
-* [markdown list 1][1]
+* [markdown list 1](home#guides)
 	1. nested list 1
 	2. nested list 2
 * markdown list 2
 
 </details>
 </details>
-[1]: home#guides
+
 
 ### Requirements
 software | Min-version
