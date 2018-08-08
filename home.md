@@ -4,6 +4,7 @@
 # Home
 this is the home
 ## installation
+this documentation contains a comprehensive guide for installation 
 ### 1. Windows
 run below command in **Powershell**
 		
