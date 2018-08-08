@@ -8,4 +8,4 @@
 ## c
 ## d
 # Header3
-[home](home)
+[home](../home)
