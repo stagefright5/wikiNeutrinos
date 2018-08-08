@@ -3,13 +3,10 @@
 
 # Introduction
 this is the intro to doc
-## Installation
-this documentation contains a comprehensive guide for installation 
-
 <details>
 <summary>Jump To...</summary>
 
-
+* [Installation](home#installation)
 * [requirements](home#requirements)
 * [Guides](home#guides)
 	1. [Set Up Guide](home#set-up-guide)
@@ -17,7 +14,8 @@ this documentation contains a comprehensive guide for installation
 
 
 </details>
-
+## Installation
+this documentation contains a comprehensive guide for installation 
 
 ### Requirements
 software | Min-version
