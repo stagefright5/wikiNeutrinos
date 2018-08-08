@@ -91,7 +91,7 @@ this one... not that one
 
 ## API Usage Guide
 
-# FAQ
-see [here](faq)
+# [FAQ][2]
+[2]: faq
 
 	
