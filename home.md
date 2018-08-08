@@ -17,10 +17,10 @@ this is the intro to doc
 </details>
 
 
-## Installation
+# Installation
 this documentation contains a comprehensive guide for installation 
 
-### Requirements
+## Requirements
 software | Min-version
 -|-
 a  | [0.1.99]()
