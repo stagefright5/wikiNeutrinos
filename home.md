@@ -7,15 +7,15 @@ this is the intro to doc
 this documentation contains a comprehensive guide for installation 
 <details>
 <summary>MHead</summary>
-	<details>
-	<summary>Heading</summary>
+<details>
+<summary>* Heading</summary>
 
-	* markdown list 1
-		* nested list 1
-		* nested list 2
-	* markdown list 2
+* markdown list 1
+	* nested list 1
+	* nested list 2
+* markdown list 2
 
-	</details>
+</details>
 </details>
 
 <details>
