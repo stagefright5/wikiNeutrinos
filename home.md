@@ -9,7 +9,7 @@ this documentation contains a comprehensive guide for installation
 <details>
 <summary>Jump To...</summary>
 <details>
-<summary> [Guides](#Guides)</summary>
+<summary> [Guides](home#guides)</summary>
 
 * markdown list 1
 	1. nested list 1
