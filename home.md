@@ -21,7 +21,8 @@ this is the intro to do
 
 
 # Installation
-https://codepen.io/bennettfeely/pen/jpXaPG
+<p data-height="284" data-theme-id="light" data-slug-hash="jpXaPG" data-default-tab="css,result" data-user="bennettfeely" data-pen-title="CSS Expanding Circles Optical Illusion" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/bennettfeely/pen/jpXaPG/">CSS Expanding Circles Optical Illusion</a> by Bennett Feely (<a href="https://codepen.io/bennettfeely">@bennettfeely</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 this documentation contains a comprehensive guide for installation 
 
