@@ -21,6 +21,8 @@ this is the intro to do
 
 
 # Installation
+https://codepen.io/bennettfeely/pen/jpXaPG
+
 this documentation contains a comprehensive guide for installation 
 
 ## Requirements
